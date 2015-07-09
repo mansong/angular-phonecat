@@ -15,5 +15,5 @@ phonecatApp.controller('PhoneListCtrl', function($scope) {
   ];
 
   //add $scope.hello variable with the value 'Hello, World!'
-  
+  $scope.hello='Hello, World!';
 });
